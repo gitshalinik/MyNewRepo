@@ -7,6 +7,8 @@ public class Test1
 	{
 		try
 		{
+			int a = 20;
+			System.out.println(a);
 			String s1 = null;
 			System.out.println(s1.length());
 		}
