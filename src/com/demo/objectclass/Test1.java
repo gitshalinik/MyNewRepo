@@ -25,5 +25,7 @@ public class Test1
 		}
 		
 		System.out.println("Other code: ");	
+		System.out.println("Hello");
+		System.out.println("Hi");
 	}
 }
