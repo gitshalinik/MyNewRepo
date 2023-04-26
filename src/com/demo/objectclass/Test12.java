@@ -10,6 +10,7 @@ public class Test12
 			System.out.println("Start Try block Execution_TM1");
 			String s1 = null;
 			System.out.println(s1.length());
+			System.out.println("Try block execution end_TM2");
 		}
 		catch(NullPointerException e)
 		{
