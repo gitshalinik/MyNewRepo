@@ -27,6 +27,7 @@ public class Test1
 			e.printStackTrace();
 		}
 		
-		System.out.println("Other code: ");	
+		System.out.println("Other code: ");
+		System.out.println("Execution Stop");	
 	}
 }
