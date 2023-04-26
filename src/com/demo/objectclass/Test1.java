@@ -13,6 +13,7 @@ public class Test1
 			System.out.println(a);
 			String s1 = null;
 			System.out.println(s1.length());
+			System.out.println("Try Block Ends");
 		}
 		catch(NullPointerException e)
 		{
