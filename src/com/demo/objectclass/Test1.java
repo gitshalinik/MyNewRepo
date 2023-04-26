@@ -7,6 +7,7 @@ public class Test1
 	{
 		try
 		{
+			System.out.println("Execution Start");
 			int a = 20;
 			System.out.println(a);
 			String s1 = null;
