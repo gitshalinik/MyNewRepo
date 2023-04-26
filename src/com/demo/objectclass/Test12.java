@@ -7,6 +7,7 @@ public class Test12
 	{
 		try
 		{
+			System.out.println("Start Try block Execution_TM1");
 			String s1 = null;
 			System.out.println(s1.length());
 		}
